@@ -1,0 +1,13 @@
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\bin\Debug\netcoreapp3.1\CMDGame.exe
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\bin\Debug\netcoreapp3.1\CMDGame.deps.json
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\bin\Debug\netcoreapp3.1\CMDGame.runtimeconfig.json
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\bin\Debug\netcoreapp3.1\CMDGame.runtimeconfig.dev.json
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\bin\Debug\netcoreapp3.1\CMDGame.dll
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\bin\Debug\netcoreapp3.1\CMDGame.pdb
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\obj\Debug\netcoreapp3.1\CMDGame.csproj.AssemblyReference.cache
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\obj\Debug\netcoreapp3.1\CMDGame.AssemblyInfoInputs.cache
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\obj\Debug\netcoreapp3.1\CMDGame.AssemblyInfo.cs
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\obj\Debug\netcoreapp3.1\CMDGame.csproj.CoreCompileInputs.cache
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\obj\Debug\netcoreapp3.1\CMDGame.dll
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\obj\Debug\netcoreapp3.1\CMDGame.pdb
+C:\Users\Ce Cao\source\repos\CMDGame\CMDGame\obj\Debug\netcoreapp3.1\CMDGame.genruntimeconfig.cache
