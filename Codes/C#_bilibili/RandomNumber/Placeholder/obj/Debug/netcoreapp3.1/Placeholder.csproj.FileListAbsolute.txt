@@ -1,0 +1,14 @@
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\bin\Debug\netcoreapp3.1\Placeholder.exe
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\bin\Debug\netcoreapp3.1\Placeholder.deps.json
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\bin\Debug\netcoreapp3.1\Placeholder.runtimeconfig.json
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\bin\Debug\netcoreapp3.1\Placeholder.runtimeconfig.dev.json
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\bin\Debug\netcoreapp3.1\Placeholder.dll
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\bin\Debug\netcoreapp3.1\Placeholder.pdb
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\obj\Debug\netcoreapp3.1\Placeholder.csproj.AssemblyReference.cache
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\obj\Debug\netcoreapp3.1\Placeholder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\obj\Debug\netcoreapp3.1\Placeholder.AssemblyInfoInputs.cache
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\obj\Debug\netcoreapp3.1\Placeholder.AssemblyInfo.cs
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\obj\Debug\netcoreapp3.1\Placeholder.csproj.CoreCompileInputs.cache
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\obj\Debug\netcoreapp3.1\Placeholder.dll
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\obj\Debug\netcoreapp3.1\Placeholder.pdb
+D:\Github\C-Sharp-Learning\Codes\C#_bilibili\RandomNumber\Placeholder\obj\Debug\netcoreapp3.1\Placeholder.genruntimeconfig.cache
