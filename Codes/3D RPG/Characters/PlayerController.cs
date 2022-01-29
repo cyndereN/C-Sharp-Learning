@@ -8,13 +8,18 @@ public class PlayerController : MonoBehaviour
 {
     private NavMeshAgent agent;
     private Animator anim;
+    private CharacterStats characterStats;
+
     private GameObject attackTarget;
     private float lastAttackTime;
+
+    private bool isDead;
 
 	private void Awake()
 	{
         agent = GetComponent<NavMeshAgent>();
         anim = GetComponent<Animator>();
+        characterStats = GetComponent<CharacterStats>();
 	}
 	// Start is called before the first frame update
 	void Start()
@@ -27,6 +32,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        isDead = characterStats.CurrentHealth == 0; //简便写法
         SwitchAnimation();
         lastAttackTime -= Time.deltaTime;
     }
@@ -34,6 +40,7 @@ public class PlayerController : MonoBehaviour
     private void SwitchAnimation()
 	{
         anim.SetFloat("Speed", agent.velocity.sqrMagnitude); // 将Vector3的值转换为浮点
+        anim.SetBool("Death", isDead);
         
 	}
 
@@ -42,6 +49,7 @@ public class PlayerController : MonoBehaviour
         if (target != null)
         {
             attackTarget = target;
+            characterStats.isCritical = UnityEngine.Random.value < characterStats.attackData.criticalChance;
             StartCoroutine(MoveToAttackTarget());
         }
     }
@@ -52,7 +60,7 @@ public class PlayerController : MonoBehaviour
 
         transform.LookAt(attackTarget.transform);
 
-        while (Vector3.Distance(attackTarget.transform.position, transform.position) > 1)
+        while (Vector3.Distance(attackTarget.transform.position, transform.position) > characterStats.attackData.attackRange)
 		{
             agent.destination = attackTarget.transform.position;
             yield return null;
@@ -64,8 +72,9 @@ public class PlayerController : MonoBehaviour
 		if (lastAttackTime < 0)
 		{
             anim.SetTrigger("Attack");
+            anim.SetBool("Critical", characterStats.isCritical);
             // 重制冷却时间
-            lastAttackTime = 0.5f;
+            lastAttackTime = characterStats.attackData.coolDown;
 		}
 	}
 
@@ -75,4 +84,12 @@ public class PlayerController : MonoBehaviour
         agent.isStopped = false;
         agent.destination = target;
     }
+
+    // Animation Event
+    void Hit()
+	{
+        var targetStats = attackTarget.GetComponent<CharacterStats>();
+
+        targetStats.TakeDamage(characterStats, targetStats);
+	}
 }
