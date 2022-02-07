@@ -6,7 +6,8 @@ using UnityEngine.AI;
 public enum EnemyStates { GUARD, PATROL, CHASE, DEAD }
 
 [RequireComponent(typeof(NavMeshAgent))] // 确保拖拽到的物体上此变量组件一定存在
-public class EnemyController : MonoBehaviour
+[RequireComponent(typeof(CharacterStats))]
+public class EnemyController : MonoBehaviour, IEndGameObserver
 {
     private NavMeshAgent agent;
     private EnemyStates enemyStates;
@@ -18,7 +19,7 @@ public class EnemyController : MonoBehaviour
     public float sightRadius;
     public bool isGuard;
     private float speed;
-    private GameObject attackTarget;
+    protected GameObject attackTarget; // 子类可以访问
     public float lookAtTime;
     private float remainLookAtTime;
     private float lastAttackTime;
@@ -33,6 +34,7 @@ public class EnemyController : MonoBehaviour
     bool isChase;
     bool isFollow;
     bool isDead;
+    bool playerDead;
 
 	private void Awake()
 	{
@@ -60,6 +62,19 @@ public class EnemyController : MonoBehaviour
             enemyStates = EnemyStates.PATROL;
             GetNewWayPoint();
         }
+        GameManager.Instance.AddObserver(this);
+    }
+
+    //切换场景时启用
+/*    void OnEnable()
+	{
+        GameManager.Instance.AddObserver(this);
+	}*/
+
+    void OnDisable()
+	{
+        if (!GameManager.IsInitialized) return;
+        GameManager.Instance.RemoveObserver(this);
     }
 
     // Update is called once per frame
@@ -67,10 +82,13 @@ public class EnemyController : MonoBehaviour
     {
         if (characterStats.CurrentHealth == 0)
             isDead = true;
-
-        SwitchStates();
-        SwitchAnimation();
-        lastAttackTime -= Time.deltaTime;
+		if (!playerDead)
+		{
+            SwitchStates();
+            SwitchAnimation();
+            lastAttackTime -= Time.deltaTime;
+        }
+        
     }
 
     void SwitchStates()
@@ -176,7 +194,8 @@ public class EnemyController : MonoBehaviour
 
             case EnemyStates.DEAD:
                 coll.enabled = false;
-                agent.enabled = false; // 关闭agent
+                // agent.enabled = false; // 关闭agent
+                agent.radius = 0;  // 和上一行效果一样，避免报错
                 Destroy(gameObject, 2f);
                 break;
 
@@ -270,4 +289,16 @@ public class EnemyController : MonoBehaviour
             targetStats.TakeDamage(characterStats, targetStats);
         }
     }
+
+	public void EndNotify()
+	{
+        // 获胜动画
+        // 停止移动
+        // 停止agent
+        anim.SetBool("Win", true);
+        playerDead = true;
+        isChase = false;
+        isWalk = false;
+        attackTarget = null;
+	}
 }

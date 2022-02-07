@@ -35,6 +35,8 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         isDead = characterStats.CurrentHealth == 0; //简便写法
+        if (isDead)
+            GameManager.Instance.NotifyObservers();
         SwitchAnimation();
         lastAttackTime -= Time.deltaTime;
     }
@@ -48,6 +50,8 @@ public class PlayerController : MonoBehaviour
 
     private void EventAttack(GameObject target)
     {
+        if (isDead) return;
+
         if (target != null)
         {
             attackTarget = target;
@@ -83,6 +87,8 @@ public class PlayerController : MonoBehaviour
     public void MoveToTarget(Vector3 target)
     {
         StopAllCoroutines(); // 打断攻击动作
+        if (isDead) return;
+
         agent.isStopped = false;
         agent.destination = target;
     }
