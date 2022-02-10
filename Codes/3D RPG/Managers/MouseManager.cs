@@ -18,9 +18,16 @@ public class MouseManager : MonoBehaviour
 	{
         if (Instance != null)
             Destroy(gameObject);
-        Instance = this;
+        else
+            Instance = this;
+        DontDestroyOnLoad(this);
 	}
 
+    void Update()
+    {
+        SetCursorTexture();
+        MouseControl();
+    }
 
     // public EventVector3 OnMouseClicked;
     public event Action<Vector3> OnMouseClicked;
@@ -39,8 +46,14 @@ public class MouseManager : MonoBehaviour
                     break;                
                 case "Enemy":
                     Cursor.SetCursor(attack, new Vector2(16, 16), CursorMode.Auto);
+                    break;                
+                case "Portal":
+                    Cursor.SetCursor(doorway, new Vector2(16, 16), CursorMode.Auto);
                     break;
-			}
+                case "Button":
+                    Cursor.SetCursor(point, new Vector2(16, 16), CursorMode.Auto);
+                    break;
+            }
 		}
 	}
 
@@ -52,18 +65,25 @@ public class MouseManager : MonoBehaviour
                 OnMouseClicked?.Invoke(hitInfo.point);
             if (hitInfo.collider.gameObject.CompareTag("Enemy"))
                 OnEnemyClicked?.Invoke(hitInfo.collider.gameObject);
-		}
+            if (hitInfo.collider.gameObject.CompareTag("Attackable"))
+                OnEnemyClicked?.Invoke(hitInfo.collider.gameObject);
+            if (hitInfo.collider.gameObject.CompareTag("Portal"))
+                OnMouseClicked?.Invoke(hitInfo.point);
+            if (hitInfo.collider.gameObject.CompareTag("Button"))
+                OnMouseClicked?.Invoke(hitInfo.point);
+        }
 	}
-    // Start is called before the first frame update
-    void Start()
+    public static bool IsInitialized
     {
-        
+        get { return Instance != null; }
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnDestroy()
     {
-        SetCursorTexture();
-        MouseControl();
+        if (Instance == this)
+        {
+            Instance = null;
+        }
     }
+
 }

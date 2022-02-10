@@ -13,7 +13,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
     private EnemyStates enemyStates;
     private Animator anim;
     private Collider coll;
-    private CharacterStats characterStats;
+    protected CharacterStats characterStats;
 
     [Header("Basic Settings")]
     public float sightRadius;
