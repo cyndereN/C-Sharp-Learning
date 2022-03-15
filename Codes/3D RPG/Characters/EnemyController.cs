@@ -5,7 +5,7 @@ using UnityEngine.AI;
 
 public enum EnemyStates { GUARD, PATROL, CHASE, DEAD }
 
-[RequireComponent(typeof(NavMeshAgent))] // È·±£ÍÏ×§µ½µÄÎïÌåÉÏ´Ë±äÁ¿×é¼þÒ»¶¨´æÔÚ
+[RequireComponent(typeof(NavMeshAgent))] // È·ï¿½ï¿½ï¿½ï¿½×§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï´Ë±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 [RequireComponent(typeof(CharacterStats))]
 public class EnemyController : MonoBehaviour, IEndGameObserver
 {
@@ -19,7 +19,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
     public float sightRadius;
     public bool isGuard;
     private float speed;
-    protected GameObject attackTarget; // ×ÓÀà¿ÉÒÔ·ÃÎÊ
+    protected GameObject attackTarget; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô·ï¿½ï¿½ï¿½
     public float lookAtTime;
     private float remainLookAtTime;
     private float lastAttackTime;
@@ -29,7 +29,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
     public float patrolRange;
     private Vector3 wayPoint;
     private Vector3 guardPos;
-    // boolÅäºÏ¶¯»­
+    // boolï¿½ï¿½Ï¶ï¿½ï¿½ï¿½
     bool isWalk;
     bool isChase;
     bool isFollow;
@@ -65,7 +65,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
         GameManager.Instance.AddObserver(this);
     }
 
-    //ÇÐ»»³¡¾°Ê±ÆôÓÃ
+    //ï¿½Ð»ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½
 /*    void OnEnable()
 	{
         GameManager.Instance.AddObserver(this);
@@ -124,11 +124,11 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
                 isChase = false;
                 agent.speed = speed * 0.5f;
 
-                // ÅÐ¶ÏÊÇ·ñµ½ÁËËæ»úÑ²Âßµã
+                // ï¿½Ð¶ï¿½ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ²ï¿½ßµï¿½
                 if(Vector3.Distance(wayPoint, transform.position) <= agent.stoppingDistance)
 				{
                     isWalk = false;
-                    //¿´Ò»»á
+                    //ï¿½ï¿½Ò»ï¿½ï¿½
                     if (remainLookAtTime > 0)
                         remainLookAtTime -= Time.deltaTime;
                     GetNewWayPoint();
@@ -152,7 +152,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
 				
                 if (!FoundPlayer())
 				{
-                    // À­ÍÑ»Øµ½ÉÏ¸ö×´Ì¬
+                    // ï¿½ï¿½ï¿½Ñ»Øµï¿½ï¿½Ï¸ï¿½×´Ì¬
                     isFollow = false;
                     if (remainLookAtTime > 0)
                     {
@@ -172,7 +172,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
                     agent.destination = attackTarget.transform.position;
 				}
 
-                // ÔÚ¹¥»÷·¶Î§ÄÚÔò¹¥»÷
+                // ï¿½Ú¹ï¿½ï¿½ï¿½ï¿½ï¿½Î§ï¿½ï¿½ï¿½ò¹¥»ï¿½
                 if (TargetInAttackRange() || TargetInSkillRange())
 				{
                     isFollow = false;
@@ -182,9 +182,9 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
 					{
                         lastAttackTime = characterStats.attackData.coolDown;
 
-                        //±©»÷ÅÐ¶Ï
+                        //ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶ï¿½
                         characterStats.isCritical = Random.value < characterStats.attackData.criticalChance;
-                        //Ö´ÐÐ¹¥»÷
+                        //Ö´ï¿½Ð¹ï¿½ï¿½ï¿½
                         Attack();
 					}
 				}
@@ -194,8 +194,8 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
 
             case EnemyStates.DEAD:
                 coll.enabled = false;
-                // agent.enabled = false; // ¹Ø±Õagent
-                agent.radius = 0;  // ºÍÉÏÒ»ÐÐÐ§¹ûÒ»Ñù£¬±ÜÃâ±¨´í
+                // agent.enabled = false; // ï¿½Ø±ï¿½agent
+                agent.radius = 0;  // ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½Ð§ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½â±¨ï¿½ï¿½
                 Destroy(gameObject, 2f);
                 break;
 
@@ -207,7 +207,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
         transform.LookAt(attackTarget.transform);
         if (TargetInAttackRange())
 		{
-            // ½üÉí¹¥»÷¶¯»­
+            // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
             anim.SetTrigger("Attack");
 		}
 		if (TargetInSkillRange())
@@ -268,7 +268,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
         float randomZ = Random.Range(-patrolRange, patrolRange);
 
         Vector3 randomPoint = new Vector3(guardPos.x + randomX, transform.position.y, guardPos.z + randomZ);
-        // ·ÀÖ¹ÒÆ¶¯µ½unwalkableÀïÃæ
+        // ï¿½ï¿½Ö¹ï¿½Æ¶ï¿½ï¿½ï¿½unwalkableï¿½ï¿½ï¿½ï¿½
         NavMeshHit hit;
         wayPoint = NavMesh.SamplePosition(randomPoint, out hit, patrolRange, 1) ? hit.position : transform.position;
     }
@@ -283,7 +283,7 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
     {
         if (attackTarget != null)
 		{
-            // Ã»ÅÜ¿ª
+            // Ã»ï¿½Ü¿ï¿½
             var targetStats = attackTarget.GetComponent<CharacterStats>();
 
             targetStats.TakeDamage(characterStats, targetStats);
@@ -292,8 +292,8 @@ public class EnemyController : MonoBehaviour, IEndGameObserver
 
 	public void EndNotify()
 	{
-        // »ñÊ¤¶¯»­
-        // Í£Ö¹ÒÆ¶¯
+        // ï¿½ï¿½Ê¤ï¿½ï¿½ï¿½ï¿½
+        // Í£Ö¹ï¿½Æ¶ï¿½
         // Í£Ö¹agent
         anim.SetBool("Win", true);
         playerDead = true;
