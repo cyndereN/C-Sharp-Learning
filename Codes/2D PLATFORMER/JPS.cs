@@ -229,9 +229,9 @@ public class JPS{
     }
     private bool diagonalExplore(Vector2Int p, Vector2Int d, int cost){
         /* 朝着角点的分量方向进行探索 */
-        bool _1 = testLine(p, new Vector2Int(d.x, 0), cost);
-        bool _2 = testLine(p, new Vector2Int(0, d.y), cost);
-        return _1 || _2;
+        bool diagonal_1 = testLine(p, new Vector2Int(d.x, 0), cost);
+        bool diagonal_2 = testLine(p, new Vector2Int(0, d.y), cost);
+        return diagonal_1 || diagonal_2;
     }
     private bool testLine(Vector2Int parent, Vector2Int d, int fcost){
         /* 从当前点p开始沿着直线方向d进行跳跃, 如果遇到了跳点, 则返回真值, 否则返回假值 
