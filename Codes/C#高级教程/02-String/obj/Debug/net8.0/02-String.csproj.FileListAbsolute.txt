@@ -1,0 +1,15 @@
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\bin\Debug\net8.0\02-String.exe
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\bin\Debug\net8.0\02-String.deps.json
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\bin\Debug\net8.0\02-String.runtimeconfig.json
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\bin\Debug\net8.0\02-String.dll
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\bin\Debug\net8.0\02-String.pdb
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\02-String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\02-String.AssemblyInfoInputs.cache
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\02-String.AssemblyInfo.cs
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\02-String.csproj.CoreCompileInputs.cache
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\02-String.sourcelink.json
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\02-String.dll
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\refint\02-String.dll
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\02-String.pdb
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\02-String.genruntimeconfig.cache
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\02-String\obj\Debug\net8.0\ref\02-String.dll
