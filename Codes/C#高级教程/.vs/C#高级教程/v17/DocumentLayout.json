@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{294F84B4-99E1-4EA5-ABB6-C0ABDE76F04D}|08-Lambda\\08-Lambda.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u9AD8\u7EA7\u6559\u7A0B\\08-lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F84B4-99E1-4EA5-ABB6-C0ABDE76F04D}|08-Lambda\\08-Lambda.csproj|solutionrelative:08-lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEC402C-1555-4892-9EE5-60AA453122C6}|07-MultiDelegate\\07-MultiDelegate.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u9AD8\u7EA7\u6559\u7A0B\\07-multidelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEC402C-1555-4892-9EE5-60AA453122C6}|07-MultiDelegate\\07-MultiDelegate.csproj|solutionrelative:07-multidelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5E020-2A33-4834-A44A-5504F4D7DE94}|07-DelegateBubbleSort\\07-DelegateBubbleSort.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u9AD8\u7EA7\u6559\u7A0B\\07-delegatebubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B5E020-2A33-4834-A44A-5504F4D7DE94}|07-DelegateBubbleSort\\07-DelegateBubbleSort.csproj|solutionrelative:07-delegatebubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B5E020-2A33-4834-A44A-5504F4D7DE94}|07-DelegateBubbleSort\\07-DelegateBubbleSort.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u9AD8\u7EA7\u6559\u7A0B\\07-delegatebubblesort\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B5E020-2A33-4834-A44A-5504F4D7DE94}|07-DelegateBubbleSort\\07-DelegateBubbleSort.csproj|solutionrelative:07-delegatebubblesort\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3C3799-6C5F-4D2A-A534-50232522F230}|05-Delegate\\05-Delegate.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u9AD8\u7EA7\u6559\u7A0B\\05-delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3C3799-6C5F-4D2A-A534-50232522F230}|05-Delegate\\05-Delegate.csproj|solutionrelative:05-delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0FA5744-C00C-4899-BFA7-73AC6626DD67}|04-ReGex\\04-ReGex.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u9AD8\u7EA7\u6559\u7A0B\\04-regex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0FA5744-C00C-4899-BFA7-73AC6626DD67}|04-ReGex\\04-ReGex.csproj|solutionrelative:04-regex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +41,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D51CD091-B17F-4F8F-8EF4-9263D97CDEF8}|01-NameSpace\\01-NameSpace.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u9AD8\u7EA7\u6559\u7A0B\\01-namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D51CD091-B17F-4F8F-8EF4-9263D97CDEF8}|01-NameSpace\\01-NameSpace.csproj|solutionrelative:01-namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3C3799-6C5F-4D2A-A534-50232522F230}|05-Delegate\\05-Delegate.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u9AD8\u7EA7\u6559\u7A0B\\05-delegate\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3C3799-6C5F-4D2A-A534-50232522F230}|05-Delegate\\05-Delegate.csproj|solutionrelative:05-delegate\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,18 +60,96 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\08-Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "08-Lambda\\Program.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\08-Lambda\\Program.cs",
+              "RelativeToolTip": "08-Lambda\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:39:07.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\07-MultiDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "07-MultiDelegate\\Program.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\07-MultiDelegate\\Program.cs",
+              "RelativeToolTip": "07-MultiDelegate\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:06:53.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\07-DelegateBubbleSort\\Employee.cs",
+              "RelativeDocumentMoniker": "07-DelegateBubbleSort\\Employee.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\07-DelegateBubbleSort\\Employee.cs",
+              "RelativeToolTip": "07-DelegateBubbleSort\\Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:11:36.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\07-DelegateBubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "07-DelegateBubbleSort\\Program.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\07-DelegateBubbleSort\\Program.cs",
+              "RelativeToolTip": "07-DelegateBubbleSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:10:23.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MathOp.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\05-Delegate\\MathOp.cs",
+              "RelativeDocumentMoniker": "05-Delegate\\MathOp.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\05-Delegate\\MathOp.cs",
+              "RelativeToolTip": "05-Delegate\\MathOp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T08:38:21.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\05-Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "05-Delegate\\Program.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\05-Delegate\\Program.cs",
+              "RelativeToolTip": "05-Delegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:45:56.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\04-ReGex\\Program.cs",
               "RelativeDocumentMoniker": "04-ReGex\\Program.cs",
               "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\04-ReGex\\Program.cs",
               "RelativeToolTip": "04-ReGex\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T08:35:52.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\03-StringBuilder\\Program.cs",
               "RelativeDocumentMoniker": "03-StringBuilder\\Program.cs",
@@ -60,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\02-String\\Program.cs",
               "RelativeDocumentMoniker": "02-String\\Program.cs",
@@ -73,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "test.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\01-NameSpace\\test.cs",
               "RelativeDocumentMoniker": "01-NameSpace\\test.cs",
@@ -86,13 +188,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\01-NameSpace\\Program.cs",
               "RelativeDocumentMoniker": "01-NameSpace\\Program.cs",
               "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u9AD8\u7EA7\u6559\u7A0B\\01-NameSpace\\Program.cs",
               "RelativeToolTip": "01-NameSpace\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T02:23:16.77Z",
               "EditorCaption": ""

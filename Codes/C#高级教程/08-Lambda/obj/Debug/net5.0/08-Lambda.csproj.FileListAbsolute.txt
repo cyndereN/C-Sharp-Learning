@@ -1,0 +1,16 @@
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\bin\Debug\net5.0\08-Lambda.exe
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\bin\Debug\net5.0\08-Lambda.deps.json
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\bin\Debug\net5.0\08-Lambda.runtimeconfig.json
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\bin\Debug\net5.0\08-Lambda.runtimeconfig.dev.json
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\bin\Debug\net5.0\08-Lambda.dll
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\bin\Debug\net5.0\08-Lambda.pdb
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\08-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\08-Lambda.AssemblyInfoInputs.cache
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\08-Lambda.AssemblyInfo.cs
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\08-Lambda.csproj.CoreCompileInputs.cache
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\08-Lambda.sourcelink.json
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\08-Lambda.dll
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\refint\08-Lambda.dll
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\08-Lambda.pdb
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\08-Lambda.genruntimeconfig.cache
+D:\Github\C-Sharp-Learning\Codes\C#高级教程\08-Lambda\obj\Debug\net5.0\ref\08-Lambda.dll
