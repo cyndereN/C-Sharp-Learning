@@ -30,7 +30,7 @@ namespace _08_Lambda
 			td();
 		}
 
-		// 事件是基于委托的 具有一种特殊签名的委托，为委托提供了发布/订阅机制，是受限制的委托（主要为了安全性吧）
+		// 事件是基于委托的 具有一种特殊签名的委托，为委托提供了发布/订阅机制，是受限制的委托（主要为了安全性吧）q
 		static event TestDelegate td;
 		private delegate void TestDelegate();
 		private static void Test1() { Console.WriteLine("1"); }

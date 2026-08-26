@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07-MultiDelegate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa6d1c4e80321771a282d5589065dbf9c76708c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3ea5113782e6c16ac35d80518475a37fbd4de6")]
 [assembly: System.Reflection.AssemblyProductAttribute("07-MultiDelegate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07-MultiDelegate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
