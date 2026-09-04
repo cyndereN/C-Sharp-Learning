@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}|01-\u7EBF\u6027\u8868\\01-\u7EBF\u6027\u8868.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\linklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}|01-\u7EBF\u6027\u8868\\01-\u7EBF\u6027\u8868.csproj|solutionrelative:01-\u7EBF\u6027\u8868\\linklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9008024-FC42-4353-BE3B-402198414695}|05-\u6392\u5E8F\\05-\u6392\u5E8F.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\05-\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9008024-FC42-4353-BE3B-402198414695}|05-\u6392\u5E8F\\05-\u6392\u5E8F.csproj|solutionrelative:05-\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2956968-CD86-4BBD-98DA-4AABEB3155BC}|04-\u4E32\\04-\u4E32.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\04-\u4E32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2956968-CD86-4BBD-98DA-4AABEB3155BC}|04-\u4E32\\04-\u4E32.csproj|solutionrelative:04-\u4E32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|solutionrelative:03-\u961F\u5217\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\02-\u6808\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|solutionrelative:02-\u6808\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}|01-\u7EBF\u6027\u8868\\01-\u7EBF\u6027\u8868.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}|01-\u7EBF\u6027\u8868\\01-\u7EBF\u6027\u8868.csproj|solutionrelative:01-\u7EBF\u6027\u8868\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\linkqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|solutionrelative:03-\u961F\u5217\\linkqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\seqqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|solutionrelative:03-\u961F\u5217\\seqqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\iqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|solutionrelative:03-\u961F\u5217\\iqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0192B64-E9F1-4DB2-875D-F70C650497C5}|03-\u961F\u5217\\03-\u961F\u5217.csproj|solutionrelative:03-\u961F\u5217\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\02-\u6808\\linkstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|solutionrelative:02-\u6808\\linkstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\02-\u6808\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|solutionrelative:02-\u6808\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\02-\u6808\\istackds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|solutionrelative:02-\u6808\\istackds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\02-\u6808\\seqstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF52CF14-3FD4-471E-9609-353670622BF0}|02-\u6808\\02-\u6808.csproj|solutionrelative:02-\u6808\\seqstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}|01-\u7EBF\u6027\u8868\\01-\u7EBF\u6027\u8868.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\linklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}|01-\u7EBF\u6027\u8868\\01-\u7EBF\u6027\u8868.csproj|solutionrelative:01-\u7EBF\u6027\u8868\\linklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}|01-\u7EBF\u6027\u8868\\01-\u7EBF\u6027\u8868.csproj|d:\\github\\c-sharp-learning\\codes\\c#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,6 +87,152 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\05-\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "05-\u6392\u5E8F\\Program.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\05-\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "05-\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T04:10:02.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\04-\u4E32\\Program.cs",
+              "RelativeDocumentMoniker": "04-\u4E32\\Program.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\04-\u4E32\\Program.cs",
+              "RelativeToolTip": "04-\u4E32\\Program.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwJwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T15:56:22.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\Node.cs",
+              "RelativeDocumentMoniker": "03-\u961F\u5217\\Node.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\Node.cs",
+              "RelativeToolTip": "03-\u961F\u5217\\Node.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T15:28:49.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkQueue.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\LinkQueue.cs",
+              "RelativeDocumentMoniker": "03-\u961F\u5217\\LinkQueue.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\LinkQueue.cs",
+              "RelativeToolTip": "03-\u961F\u5217\\LinkQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T15:28:02.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeqQueue.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\SeqQueue.cs",
+              "RelativeDocumentMoniker": "03-\u961F\u5217\\SeqQueue.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\SeqQueue.cs",
+              "RelativeToolTip": "03-\u961F\u5217\\SeqQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T15:26:03.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IQueue.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\IQueue.cs",
+              "RelativeDocumentMoniker": "03-\u961F\u5217\\IQueue.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\IQueue.cs",
+              "RelativeToolTip": "03-\u961F\u5217\\IQueue.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T15:22:41.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\Program.cs",
+              "RelativeDocumentMoniker": "03-\u961F\u5217\\Program.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\03-\u961F\u5217\\Program.cs",
+              "RelativeToolTip": "03-\u961F\u5217\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T09:05:54.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LinkStack.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\LinkStack.cs",
+              "RelativeDocumentMoniker": "02-\u6808\\LinkStack.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\LinkStack.cs",
+              "RelativeToolTip": "02-\u6808\\LinkStack.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T03:12:13.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\Node.cs",
+              "RelativeDocumentMoniker": "02-\u6808\\Node.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\Node.cs",
+              "RelativeToolTip": "02-\u6808\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T03:05:49.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeqStack.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\SeqStack.cs",
+              "RelativeDocumentMoniker": "02-\u6808\\SeqStack.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\SeqStack.cs",
+              "RelativeToolTip": "02-\u6808\\SeqStack.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T01:02:12.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStackDS.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\IStackDS.cs",
+              "RelativeDocumentMoniker": "02-\u6808\\IStackDS.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\IStackDS.cs",
+              "RelativeToolTip": "02-\u6808\\IStackDS.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T01:00:24.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\Program.cs",
+              "RelativeDocumentMoniker": "02-\u6808\\Program.cs",
+              "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\02-\u6808\\Program.cs",
+              "RelativeToolTip": "02-\u6808\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T00:43:06.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "LinkList.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\LinkList.cs",
               "RelativeDocumentMoniker": "01-\u7EBF\u6027\u8868\\LinkList.cs",
@@ -46,25 +240,23 @@
               "RelativeToolTip": "01-\u7EBF\u6027\u8868\\LinkList.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAAAwwK0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T15:56:43.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T15:56:43.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Node.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\Node.cs",
               "RelativeDocumentMoniker": "01-\u7EBF\u6027\u8868\\Node.cs",
               "ToolTip": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\Node.cs",
               "RelativeToolTip": "01-\u7EBF\u6027\u8868\\Node.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T15:32:55.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T15:32:55.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "SeqList.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\SeqList.cs",
               "RelativeDocumentMoniker": "01-\u7EBF\u6027\u8868\\SeqList.cs",
@@ -72,12 +264,11 @@
               "RelativeToolTip": "01-\u7EBF\u6027\u8868\\SeqList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T09:57:48.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T09:57:48.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "IListDS.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\IListDS.cs",
               "RelativeDocumentMoniker": "01-\u7EBF\u6027\u8868\\IListDS.cs",
@@ -85,12 +276,11 @@
               "RelativeToolTip": "01-\u7EBF\u6027\u8868\\IListDS.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T09:36:38.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T09:36:38.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\01-\u7EBF\u6027\u8868\\Program.cs",
               "RelativeDocumentMoniker": "01-\u7EBF\u6027\u8868\\Program.cs",
@@ -98,12 +288,11 @@
               "RelativeToolTip": "01-\u7EBF\u6027\u8868\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T07:49:45.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T07:49:45.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\C-Sharp-Learning\\Codes\\C#\u6570\u636E\u7ED3\u6784\\C#\u6570\u636E\u7ED3\u6784\\Program.cs",
               "RelativeDocumentMoniker": "C#\u6570\u636E\u7ED3\u6784\\Program.cs",
@@ -111,8 +300,7 @@
               "RelativeToolTip": "C#\u6570\u636E\u7ED3\u6784\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T07:48:09.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T07:48:09.648Z"
             }
           ]
         }

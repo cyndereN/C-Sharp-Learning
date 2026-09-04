@@ -1,11 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#数据结构", "C#数据结构\C#数据结构.csproj", "{A57F6A9B-71F8-4C3F-B531-55E6FC6A3AF9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-线性表", "01-线性表\01-线性表.csproj", "{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-栈", "02-栈\02-栈.csproj", "{EF52CF14-3FD4-471E-9609-353670622BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-队列", "03-队列\03-队列.csproj", "{E0192B64-E9F1-4DB2-875D-F70C650497C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-串", "04-串\04-串.csproj", "{B2956968-CD86-4BBD-98DA-4AABEB3155BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-排序", "05-排序\05-排序.csproj", "{F9008024-FC42-4353-BE3B-402198414695}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52B2A45D-83C9-49C2-AFFD-A913DE3BA5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF52CF14-3FD4-471E-9609-353670622BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF52CF14-3FD4-471E-9609-353670622BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF52CF14-3FD4-471E-9609-353670622BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF52CF14-3FD4-471E-9609-353670622BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0192B64-E9F1-4DB2-875D-F70C650497C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0192B64-E9F1-4DB2-875D-F70C650497C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0192B64-E9F1-4DB2-875D-F70C650497C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0192B64-E9F1-4DB2-875D-F70C650497C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2956968-CD86-4BBD-98DA-4AABEB3155BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2956968-CD86-4BBD-98DA-4AABEB3155BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2956968-CD86-4BBD-98DA-4AABEB3155BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2956968-CD86-4BBD-98DA-4AABEB3155BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9008024-FC42-4353-BE3B-402198414695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9008024-FC42-4353-BE3B-402198414695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9008024-FC42-4353-BE3B-402198414695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9008024-FC42-4353-BE3B-402198414695}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

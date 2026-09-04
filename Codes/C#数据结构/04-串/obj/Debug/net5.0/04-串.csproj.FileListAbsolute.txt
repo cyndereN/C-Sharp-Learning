@@ -1,0 +1,16 @@
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\bin\Debug\net5.0\04-串.exe
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\bin\Debug\net5.0\04-串.deps.json
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\bin\Debug\net5.0\04-串.runtimeconfig.json
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\bin\Debug\net5.0\04-串.runtimeconfig.dev.json
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\bin\Debug\net5.0\04-串.dll
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\bin\Debug\net5.0\04-串.pdb
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\04-串.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\04-串.AssemblyInfoInputs.cache
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\04-串.AssemblyInfo.cs
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\04-串.csproj.CoreCompileInputs.cache
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\04-串.sourcelink.json
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\04-串.dll
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\refint\04-串.dll
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\04-串.pdb
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\04-串.genruntimeconfig.cache
+D:\Github\C-Sharp-Learning\Codes\C#数据结构\04-串\obj\Debug\net5.0\ref\04-串.dll

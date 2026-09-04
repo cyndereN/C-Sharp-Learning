@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01-线性表")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a245a704f496af79ab4cef5cd404cba5d71f16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77787062c4718698bd8237100794d7d1b95b4e16")]
 [assembly: System.Reflection.AssemblyProductAttribute("01-线性表")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01-线性表")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
