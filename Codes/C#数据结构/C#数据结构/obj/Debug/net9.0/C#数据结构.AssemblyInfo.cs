@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#数据结构")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77787062c4718698bd8237100794d7d1b95b4e16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622e06701cd5db60bd608a380246c4b2ae80bfcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#数据结构")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#数据结构")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
