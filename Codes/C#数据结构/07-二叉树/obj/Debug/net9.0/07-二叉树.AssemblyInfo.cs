@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07-二叉树")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622e06701cd5db60bd608a380246c4b2ae80bfcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdee639d5bb4d3a3f53da3958cc118c87fd44640")]
 [assembly: System.Reflection.AssemblyProductAttribute("07-二叉树")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07-二叉树")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

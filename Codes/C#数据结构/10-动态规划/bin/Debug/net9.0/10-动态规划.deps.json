@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "10-动态规划/1.0.0": {
+        "runtime": {
+          "10-动态规划.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10-动态规划/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
